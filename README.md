@@ -3,21 +3,21 @@ countアプリよくあるエラー問題集
 ジャンル別
 
 - code
--- association
--- pos
--- spel
+    - association
+    - pos
+    - spel
 
 - file
--- infinity
--- noImage
+    - infinity
+    - noImage
 
 - storyboard
--- association
--- entryPoint
--- hidden
--- hierarchy
--- userInteractionEnabled
--- wh
+    - association
+    - entryPoint
+    - hidden
+    - hierarchy
+    - userInteractionEnabled
+    - wh
 
 - original
 
